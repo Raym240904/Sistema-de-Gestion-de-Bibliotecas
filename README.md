@@ -2,7 +2,7 @@
 Grupo #2
 
 Integrantes:
-Raul Alexander Yancan Mayhuasque
-Boris Baruc Mori Montilla
-Isaías Flores Cordova
+Raul Alexander Yancan Mayhuasque, <p>
+Boris Baruc Mori Montilla, 
+Isaías Flores Cordova, 
 Piero sangama  martinez
