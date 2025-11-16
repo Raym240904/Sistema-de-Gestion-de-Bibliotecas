@@ -1,8 +1,8 @@
-# Sistema-de-Gestion-de-Bibliotecas
-Grupo #2
+# Sistema-de-Gestion-de-Bibliotecas<p>
+Grupo #2<p>
 
-Integrantes:
+Integrantes:<p>
 Raul Alexander Yancan Mayhuasque, <p>
-Boris Baruc Mori Montilla, 
-Isaías Flores Cordova, 
+Boris Baruc Mori Montilla, <p>
+Isaías Flores Cordova, <p>
 Piero sangama  martinez
